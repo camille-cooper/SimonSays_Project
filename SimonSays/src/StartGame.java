@@ -38,4 +38,6 @@ public class StartGame {
 		frame.add(panel);
 		
 	}
+	
+	//This is Camille's test*****************
 }
